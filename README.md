@@ -1,4 +1,4 @@
-# Presentasi Threejs
+# Presentasi Threejs - Animasi dan Perpindahan Kamera
 ## _Kelompok 6_
 ---
 #### Anggota Kelompok
