@@ -9,4 +9,4 @@
 | Rr. Diajeng Alfisyahrinnisa Anandha  | 5025211147 |
 | Rayssa Ravelia                       | 5025211219 |
 | Victor Gustinova| 5025211159 |
-| Frederick Yonathan Susanto | 5025211121 |
+| Frederick Yonatan Susanto | 5025211121 |
